@@ -1,0 +1,3 @@
+[submodule "books-api"]
+	path = books-api
+	url = https://github.com/aescobartizon/microservices-reference-architecture-k8s/books-api.git
